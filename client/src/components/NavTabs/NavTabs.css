@@ -1,0 +1,15 @@
+
+.nav{
+    background:#a0b3c5;
+}
+#headerlinks a{
+    color: black;
+    font-size: 19px;
+}
+.nav-link {
+    
+    padding: 14px 1rem;
+}
+#logo{
+    font-family: 'Fjalla One', sans-serif;
+}

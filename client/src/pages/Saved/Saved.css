@@ -1,0 +1,19 @@
+.card.card-block.bg-faded {
+    background: #a0b3c5;
+    margin-top: 0px;
+    padding: 10px;
+    margin-bottom: 4px;
+  }
+  .delete-btn {
+    float: right;
+    color: #a0b3c5;
+    position: absolute;
+    right: 0;
+    top: 0;
+    padding: 4px;
+    cursor: pointer;
+  }
+
+.card-header{
+  background-color: #a0b3c5;
+}
